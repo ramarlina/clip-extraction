@@ -1,0 +1,3 @@
+#git+https://github.com/openai/whisper.git@279133e3107392276dc509148da1f41bfb532c7e
+requests
+replicate==0.34.1

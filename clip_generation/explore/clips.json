@@ -1,0 +1,30 @@
+[
+  {
+    "start": 105,
+    "end": 128,
+    "summary": "U.S. Federal Reserve announced a half percentage point cut to its benchmark rate, potentially influencing Canada's rate decisions.",
+    "relevance_score": 90,
+    "justification": "Highlights a significant economic event with international implications, likely to spark viewer interest."
+  },
+  {
+    "start": 248,
+    "end": 274,
+    "summary": "Lower Canadian interest rates without U.S. cuts could weaken the Canadian dollar, increasing import costs and potentially driving up inflation.",
+    "relevance_score": 88,
+    "justification": "Explains complex economic relationships in an accessible way, demonstrating real-world impacts on viewers."
+  },
+  {
+    "start": 438,
+    "end": 459,
+    "summary": "The Bank of Canada may accelerate rate cuts due to the U.S. Fed's aggressive easing cycle, as it reduces concerns about inflation through exchange rates.",
+    "relevance_score": 87,
+    "justification": "Provides insight into potential policy changes and their rationale, relevant to viewers' financial planning."
+  },
+  {
+    "start": 0,
+    "end": 24,
+    "summary": "Economists expected cautious interest rate cuts by the Bank of Canada, with 2-3 quarter percentage point cuts in 2024 and a return to 3% in about two years.",
+    "relevance_score": 85,
+    "justification": "Provides a concise overview of initial economic expectations, setting up contrast with later developments."
+  }
+]
